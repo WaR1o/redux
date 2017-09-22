@@ -1,0 +1,14 @@
+.counter {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+.todos {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.todos__filter {
+    word-spacing: 5px;
+}

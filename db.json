@@ -1,0 +1,7 @@
+{
+  "todos": [
+      {"id": 1, "title": "Learn JS", "done": false},
+      {"id": 2, "title": "Watch TV", "done": true},
+      {"id": 3, "title": "Build house", "done": true}
+  ]
+}
